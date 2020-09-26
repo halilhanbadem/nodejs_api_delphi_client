@@ -18,5 +18,7 @@ NetHTTPRequest & NetHTTPClient. (Added XE8 and later.)
  * API URI: https://apiservice.wolcod.com/api/lisans/
  * Method: POST
  * Parameter: lisansno
- * Accepted Data: 0001-0001-0001-0001 || 0001-0001-0001-0002
+ * Accepted Data:
+    1. 0001-0001-0001-0001
+    2. 0001-0001-0001-0002
  
