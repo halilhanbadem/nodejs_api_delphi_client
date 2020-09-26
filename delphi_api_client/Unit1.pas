@@ -32,7 +32,6 @@ var
  url, json_donus: string;
  param: TStringList;
  jsonObj: TJSONValue;
- A: TJSONAncestor;
 begin
  param := TStringList.Create;
  param.Add('lisansno='+Edit1.Text);
